@@ -1,4 +1,4 @@
-# [anniew.xyz](https://anniew.xyz/)
+# Credits Annie W
 
 This is the source code for my personal website - a developer and photographer portfolio.
 
